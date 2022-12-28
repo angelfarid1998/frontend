@@ -58,7 +58,7 @@ return (
 <div className=''>
 <Link to="/create" className='btn btn-success btn-lg mt-2 mb-2 text-white'>Create</Link>
 </div>
-</div>
+</div>  
 )
 }
 
